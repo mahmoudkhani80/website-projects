@@ -1,0 +1,24 @@
+.box {
+    position: relative;
+    left: 25%;
+    background-color: #eee;
+    width: 50%;
+
+}
+.text-center {
+    text-align: center;
+}
+.img-circle {
+    border-radius: 100%;
+}
+.font-size {
+    font-size: 80px;
+}
+.timeline {
+    background-color: #ddd;
+    box-sizing: border-box;
+    width: 100%;
+}
+.text-transform {
+    text-transform: uppercase;
+}
